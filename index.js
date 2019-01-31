@@ -80,6 +80,7 @@ module.exports = {
       { key: 'marker', component: 'g-map/marker' },
       { key: 'circle', component: 'g-map/circle' },
       { key: 'polyline', component: 'g-map/polyline' },
+      { key: 'polygon', component: 'g-map/polygon' },
       { key: 'infoWindow', component: 'g-map/info-window' },
       { key: 'overlay', component: 'g-map/overlay' },
       { key: 'control', component: 'g-map/control' },
